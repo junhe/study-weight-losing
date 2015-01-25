@@ -1,3 +1,3 @@
 table:
-	python ./splitinch.py ./raw.txt > table
+	python ./splitinch.py ./data.raw/raw.txt > table
 
